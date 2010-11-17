@@ -1,4 +1,5 @@
+import junit.framework.TestCase;
 
-public class AuthorTest  {
+public class AuthorTest  extends TestCase{
 
 }
