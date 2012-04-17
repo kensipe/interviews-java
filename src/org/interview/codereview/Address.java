@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 /**
  *  example of real code from 2010
+ * code that is "similar" to client code I was asked to review
  */
 public class Address implements Serializable {
 

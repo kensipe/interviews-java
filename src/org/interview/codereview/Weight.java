@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author: ksipe
+ * code that is "similar" to client code I was asked to review
  */
 public class Weight implements Serializable {
 

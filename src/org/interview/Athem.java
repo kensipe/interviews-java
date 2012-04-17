@@ -1,3 +1,5 @@
+package org.interview;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -5,6 +7,9 @@ import java.util.List;
  * @author: ksipe
  */
 public class Athem {
+
+    // todo:  future questions... test Palindrome and sort days of weeks
+
 //
 //    // good
 //    public static String[] sort(String[] daysOfWeek) {

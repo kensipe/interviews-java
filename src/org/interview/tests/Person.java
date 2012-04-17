@@ -1,5 +1,6 @@
+package org.interview.tests;
 
-public class Author {
+public class Person {
 
     private String firstName;
     private String lastName;
