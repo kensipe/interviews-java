@@ -1,5 +1,8 @@
 package org.interview.tests;
 
+/**
+ * simple pojo for which a PersonTest needs to be created to test the getFullName function
+ */
 public class Person {
 
     private String firstName;
