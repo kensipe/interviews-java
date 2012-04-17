@@ -4,6 +4,28 @@ This project is created to test java developers
 ## Overview
 There are several sections; java core questions, code reviews and code writing.
 
+### Getting Started
+Everything that is need to run or configure the project is checked into project.  You will need internet access to maven for this to work.
+To do your first build:
+
+    ./gradlew jar
+    or
+    ./gradlew.bat jar
+
+To configure an editor:
+
+    ./gradlew idea
+    or
+    ./gradlew eclipse
+
+To run tests:
+
+    ./gradlew test
+
+To review output of tests:
+
+    ./gradlew test -i
+
 ### Questions
 DoubleQuestion
 
