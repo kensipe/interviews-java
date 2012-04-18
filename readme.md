@@ -33,7 +33,7 @@ DoubleQuestion
          System.out.println("value = " + value);
 
 1. What is the expected result?
-2. Why?
+2. What did you get and why?
 3. How do you fix it?
 
 NumOfArraysQuestion
