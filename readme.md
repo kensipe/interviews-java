@@ -48,6 +48,9 @@ StringCompareExample
 2. What is the result?
 3. Why?  - In great detail :)
 
+(Extra Credit)
+When considering Java's generics, what does the term reified mean?  And what effect does it have on the Java?
+
 ### Code Reviews
 The class Weight represents code that was developed for a client in 2010 for which I was to give a code review...
 
